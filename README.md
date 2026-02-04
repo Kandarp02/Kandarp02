@@ -1,82 +1,92 @@
-<!-- Animated Header -->
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kandarp%20Patil&fontSize=60&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Kandarp%20Patil&fontSize=64&fontAlignY=40&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+%26+MERN+Stack+Developer;Building+Real-World+Applications;Future+Full+Stack+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Java+%26+MERN+Stack+Developer;Building+Production-Ready+Applications;Open+to+Internships+%26+SDE+Roles"/>
 </h1>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kandarp02&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+<!-- ===================== ABOUT SECTION ===================== -->
 ## 👨‍🚀 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/216649449-3d6c8c4f-02f4-4b12-a4c4-73e7a9c4c3a6.gif"/>
+<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/216649449-3d6c8c4f-02f4-4b12-a4c4-73e7a9c4c3a6.gif"/>
 
-🎓 **BTech Computer Engineering (2024–2027)**  
+🎓 **BTech – Computer Engineering (2024–2027)**  
 🏫 Government College of Engineering, Jalgaon  
 
-🎓 **Diploma in Computer Engineering**  
-🏅 90.29% – First Class Distinction  
+🎓 **Diploma – Computer Engineering**  
+🏅 **90.29% | First Class with Distinction**
 
-💻 **Java Developer Intern @ Sumago Infotech Pvt. Ltd.**  
-🚀 Specializing in **MERN Stack Development**
+💼 **Java Developer Intern – Sumago Infotech Pvt. Ltd.**
 
-I am passionate about building **scalable, real-world applications**, continuously improving my skills, and preparing for **top software engineering roles**.
+💡 Passionate about **software engineering**, **MERN stack**, and **problem-solving**.  
+🎯 Goal: Crack **top-tier software roles** with strong fundamentals and real-world projects.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-## 🧠 Tech Stack (Animated)
+<!-- ===================== TECH STACK ===================== -->
+## 🧠 Tech Stack
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp&theme=dark"/>
 </p>
 
 ### 🌐 Web & MERN
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql&theme=dark"/>
 </p>
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-## 🧩 Experience
+<!-- ===================== EXPERIENCE ===================== -->
+## 💼 Experience
 
-### 💼 Java Developer Intern  
+### 🔹 Java Developer Intern  
 **Sumago Infotech Pvt. Ltd.** (Jun 2023 – Jul 2023)
 
-✔ Java-based application development  
-✔ Real-world project exposure  
-✔ Client interaction & teamwork  
-✔ Project management fundamentals  
+✔ Java application development  
+✔ Hands-on real-world projects  
+✔ Client-based development exposure  
+✔ Team collaboration & agile workflow  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
+<!-- ===================== CERTIFICATIONS ===================== -->
 ## 🏆 Certifications & Achievements
 
 🏅 Programming in Java – **NPTEL**  
 🏅 Java / JavaScript / Android – **Data Planet**  
-🏅 CodeCraz 2.0 Hackathon – **Finalist (Offline)**  
+🏅 **CodeCraz 2.0 Hackathon – Finalist (Offline)**  
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-## 📌 Featured Projects (Coming Soon 🚀)
+<!-- ===================== PROJECTS ===================== -->
+## 📌 Featured Projects (Building 🚀)
 
 🔹 MERN Authentication System  
-🔹 MERN Task Manager  
+🔹 MERN Task Management App  
 🔹 Java Student Management System  
-🔹 Full Stack Portfolio Website  
+🔹 Personal Portfolio Website  
 
-> ⚠️ Currently building high-quality projects — stay tuned!
+> ⚠️ High-quality projects under active development.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
-## 📊 GitHub Analytics (LIVE)
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kandarp02&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -90,16 +100,18 @@ I am passionate about building **scalable, real-world applications**, continuous
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandarp02&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
+<!-- ===================== 3D CONTRIBUTION ===================== -->
 ## 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Kandarp02/Kandarp02/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Kandarp02/Kandarp02/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
+<!-- ===================== CONNECT ===================== -->
 ## 🌍 Connect With Me
 
 <p align="center">
@@ -111,8 +123,7 @@ I am passionate about building **scalable, real-world applications**, continuous
   </a>
 </p>
 
----
-
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
