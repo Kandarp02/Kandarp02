@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Java+%26+MERN+Stack+Developer;Building+Production-Ready+Applications;Open+to+Internships+%26+SDE+Roles"/>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kandarp02&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 
